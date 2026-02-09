@@ -92,8 +92,3 @@ Future Improvements
 -   Improve UI design and animations\
 -   Add sound effects\
 -   Add game history tracking
-------------------------------------------------------------------------
-
-## 👤 Author
-
-Add your name here
